@@ -16,15 +16,18 @@ duration (Dauer der Mitgliedschaft)
 7: über 40 Jahre
 
 relation 
-1: Vorstand
-2: Mitglied
-3: LeiterIn
-4: GeschäftsführerIn
-5: DirektorIn
-6: PräsidentIn
-7: VorsitzendeR
-8: MitarbeiterIn
-
+1:  Vorstand
+2:  Mitglied
+3:  LeiterIn
+4:  GeschäftsführerIn
+5:  DirektorIn
+6:  PräsidentIn
+7:  VorsitzendeR
+8:  MitarbeiterIn
+9:  MinisterIn
+10: StaatssekretärIn
+11: VertreterIn
+12: AufsichtsratIn
 
 
 Vertex-Attribute
