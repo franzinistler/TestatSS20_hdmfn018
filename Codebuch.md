@@ -44,14 +44,7 @@ age
 4: 60-69
 5: 70-79
 
-party (Mitgliedschaft in politischer Partei)
-1: CDU
-2: CSU
-3: FDP
-4: SPD
-5: Die Grünen
-
-representation (Funktion innerhalb der Komission)
+representation (Funktion innerhalb der Kommission)
 1: Politik
 2: Wirtschaft und Industrie
 3: Gewerkschaft
@@ -71,7 +64,7 @@ state (Bundesland)
 1:  Baden-Württemberg
 2:  Bayern
 3:  Berlin
-4:  Niedersachsen
+4:  Brandenburg
 5:  Bremen
 6:  Hamburg
 7:  Hessen
@@ -94,19 +87,12 @@ education (höchster Bildungsabschluss)
 2: Abitur
 3: abgeschlossenes Bachelor-Studium
 4: abgeschlossenes Master-Studium
-5: Dissertation
-6: Professur
+5: Diplom
+6: Staatsexamen
+7: Dissertation
+8: Professur
 
 admission (Aufnahme in Kommission)
 1: 2018
 2: 2019
 3: 2020
-
-company 
-1:
-
-association
-1:
-
-organisation 
-1:
