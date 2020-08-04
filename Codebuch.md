@@ -96,3 +96,11 @@ education (höchster Bildungsabschluss)
 6: Staatsexamen
 7: Dissertation
 8: Professur
+
+party
+1: CDU
+2: CSU
+3: FDP
+4: Die Gruenen
+5: SPD
+6: parteilos
