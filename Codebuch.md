@@ -28,6 +28,8 @@ relation
 10: StaatssekretärIn
 11: VertreterIn
 12: AufsichtsratIn
+13: KoordinatorIn
+14: ForschungsbeauftragteR
 
 
 Vertex-Attribute
