@@ -50,13 +50,12 @@ age
 5: 70-79
 
 representation (Funktion innerhalb der Kommission)
-1: Politik
 2: Wirtschaft und Industrie
 3: Gewerkschaft
 4: Umwelt
 5: Regionen
 6: Wissenschaft
-7: parlamentarische Mitglieder
+7: parlamentarische Mitlgieder
 8: Vorsitzende
 9: zusätzliches Mitglied
 
